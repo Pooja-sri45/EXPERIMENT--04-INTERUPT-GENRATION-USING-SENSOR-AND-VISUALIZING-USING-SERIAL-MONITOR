@@ -155,7 +155,7 @@ PUTCHAR_PROTOTYPE
 ```
 
 ## Output screen shots of serial port utility   :
-![EX 4 BOARD](https://github.com/user-attachments/assets/33e1d728-c688-4f31-a104-859ff40d5325)
+![EX 4 OUTPUT](https://github.com/user-attachments/assets/b9d68a8d-d4f1-4025-905e-f834a1476357)
 
 
  
